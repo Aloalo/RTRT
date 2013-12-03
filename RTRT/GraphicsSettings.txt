@@ -1,0 +1,25 @@
+#scene
+//number of little green spheres (max 100)
+numSpheres 81
+
+#realtime
+
+//these are settings for the real time renderer
+//be careful with these :(
+
+windowWidth 1280
+windowHeight 720
+AALevel 1
+maxRayDepth 4
+FOV 60.0
+
+#snapshot
+
+//these are settings for the snapshots
+//you can knock these up :)
+
+windowWidth 1920
+windowHeight 1080
+AALevel 4
+maxRayDepth 5
+FOV 60.0
